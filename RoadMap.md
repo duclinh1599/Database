@@ -120,6 +120,9 @@
 ---
 
 ## Tài Liệu Tham Khảo
+- Youtube JavaScript:
+   - https://www.youtube.com/watch?v=Ko3jE3HNtFw&list=PLP6tw4Zpj-RLU3QE246A8zDliE7k_-dA5
+   - https://www.youtube.com/watch?v=NoPezyF1jxc&list=PLodO7Gi1F7R0u7LAtcBnSLJupZwGJZn2C&index=5
 - **JavaScript:**
   - [JavaScript.info](https://javascript.info/)
   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
